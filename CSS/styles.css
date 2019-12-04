@@ -1,0 +1,156 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Pattaya', sans-serif;
+}
+
+.top_container{
+  background-color: #dff6f0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle_container{
+  margin: 100px 0;
+}
+
+h1{
+  font-family: 'Parisienne', cursive;
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+  color:  #66BFBF;
+}
+h2{
+  font-family: 'Odibee Sans', cursive;
+  font-size: 40px;
+  color:  #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+}
+p{
+  font-family: 'Alata', sans-serif;
+    line-height: 2;
+}
+
+.burger{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.profile-p{
+  width:40%;
+  margin:20px auto 40px;
+}
+
+.footer{
+  font-family: 'Alata', sans-serif;
+  width: 50%;
+  margin: 10px auto;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Krub', sans-serif;
+  margin: 10px 20px 50px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Krub', sans-serif;
+}
+
+.middle_container{
+  margin: 100px 0 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+.top-cloud{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 600px;
+  top:50px;
+}
+
+.bottom-cloud{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 650px;
+  bottom: 450px;
+}
+
+.man-img{
+  height: 250px;
+  width: 250px;
+  margin-top: 50px;
+}
+
+.deal-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.share-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:17px;
+	border:1px solid #11cdd4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Krub', sans-serif;
+	font-size:19px;
+	padding:14px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin: auto auto 20px auto;
+  font-weight: bold;
+}
+.myButton:hover {
+	background-color:#2bc4ad;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
